@@ -1,0 +1,3 @@
+[submodule "snake"]
+	path = snake
+	url = git@github.com:Brandon-Huu/snake.git
