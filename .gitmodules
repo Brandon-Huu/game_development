@@ -1,3 +1,6 @@
 [submodule "snake"]
 	path = snake
 	url = git@github.com:Brandon-Huu/snake.git
+[submodule "pong"]
+	path = pong
+	url = git@github.com:Brandon-Huu/pong.git
